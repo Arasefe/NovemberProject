@@ -7,4 +7,8 @@ public class Batman {
     public static void batmanMethod(){
         System.out.println("Batman saves Gotham");
     }
+
+    public static void batmanMethod2(){
+        System.out.println("Batman is working hard!!!");
+    }
 }
