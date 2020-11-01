@@ -11,4 +11,8 @@ public class Batman {
     public static void batmanMethod2(){
         System.out.println("Batman is working hard!!!");
     }
+
+    public static void batmanMethod3(){
+        System.out.println("Batman SAVED GOTHAM!!!");
+    }
 }
