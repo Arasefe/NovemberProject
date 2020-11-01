@@ -13,5 +13,7 @@ public class Superman {
     }
     public static void superMethod3(){
         System.out.println("Superman is about to save the world");
+        System.out.println("Superman encountered a lot of problem");
     }
+
 }
